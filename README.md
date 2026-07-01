@@ -11,7 +11,7 @@ This program acts as a bridge between Claude Code and OpenRouter's free models. 
 ## Prerequisites
 
 - Go 1.21+ (for building from source)
-- `OPENROUTER_API_KEY` environment variable set
+- `OPENROUTER_API_KEY` environment variable set (how to create the key [https://openrouter.ai/docs/api/reference/authentication](https://openrouter.ai/docs/api/reference/authentication))
 - `claude` command available in PATH (Claude Code CLI)
 
 ## Installation
