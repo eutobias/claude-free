@@ -2,6 +2,8 @@
 
 Claude Free is a launcher to easily use Claude Code with free models from OpenRouter.
 
+<img width="847" height="529" alt="ezgif-55ba8d92fcef7eb2" src="https://github.com/user-attachments/assets/d3808bf8-7694-4aea-ada8-f3a6e49214ef" />
+
 ## Overview
 
 This program acts as a bridge between Claude Code and OpenRouter's free models. It fetches available free models from OpenRouter, lets you select one, configures the necessary environment variables, and launches Claude Code with that model.
