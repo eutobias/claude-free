@@ -97,3 +97,6 @@ The launcher configures these environment variables for the Claude Code process:
 3. **Selection**: Interactive prompt for user choice
 4. **Environment**: Builds modified environment inheriting parent vars plus overrides
 5. **Exec**: Replaces process with `claude` command using new environment
+
+## Credits
+- To my friend [@MichelRibeiro](https://github.com/michelribeiro) who had this ideia
